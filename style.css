@@ -41,7 +41,7 @@ footer {
 
 
 
-@media (max-width: 680px){
+@media(min-width: 400px) and(max-width: 680px){
 h1{
   font-size: 3.5rem;
   text-align: center;
